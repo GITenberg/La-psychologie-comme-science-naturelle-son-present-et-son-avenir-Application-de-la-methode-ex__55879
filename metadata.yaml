@@ -1,11 +1,16 @@
 _repo: La-psychologie-comme-science-naturelle-son-present-et-son-avenir-Application-de-la-methode-ex__55879
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55879-h/images/cover.jpg
 creator:
   author:
     agent_name: Delboeuf, Joseph
     gutenberg_agent_id: '48559'
     url: http://www.gutenberg.org/2009/agents/48559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55879#La-psychologie-comme-science-naturelle-son-present-et-son-avenir-Application-de-la-methode-ex_
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2017-11-02'
 gutenberg_type: Text
